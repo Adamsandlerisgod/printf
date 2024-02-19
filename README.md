@@ -1,7 +1,7 @@
 # <p align = "center">ft_printf</p>
 
 <p align = "center">
-<a href = "https://github.com/Adamsandlerisgod" ><img ft_printf = "ft_printf" src = "ft_printfe.png"></a>
+<a href = "https://github.com/Adamsandlerisgod" ><img ft_printf = "ft_printf" src = "./docs/ft_printfe.png"></a>
 </p>
 
 **The ft_printf Project Overview:**
